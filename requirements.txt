@@ -1,0 +1,22 @@
+# Core deep learning
+torch>=2.2
+torchvision>=0.17
+
+# Image handling & numerics
+pillow
+numpy
+opencv-python
+
+# Explainability (Grad-CAM, saliency, Integrated Gradients, occlusion)
+grad-cam
+captum
+
+# Plotting & analysis
+matplotlib
+pandas
+scikit-learn
+tqdm
+
+# Notebook
+jupyter
+ipykernel
